@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Cabin', sans-serif;
+}
+.main{
+	margin: auto;
+	width: 60%;
+	background: #fffdfc;
+	box-shadow: 0px 10px 15px #888888;
+}
+.header{
+	
+	padding:  20px;
+	text-align: center;
+	background: #3a4e5f;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-family: fantasy;
+	font-size: 30px;
+	color: crimson;
+	cursor: not-allowed;
+	text-decoration-color: red;
+}
+.head{
+	margin: 10px;
+	padding: 50px;
+	text-align: center;
+	line-height: 2rem;
+	border-bottom: 1px solid black;
+	
+}
+.head h1{
+	text-decoration: underline;
+}
+.bill {
+	border-bottom: 1px solid black;
+	margin: 10px;
+	display: flex;
+	font-size: 15px;
+}
+.bill p{
+
+}
+.info{
+	margin: 10px;
+	padding: 5px;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 2rem;
+
+}
+.table_data{
+	width: 95%;
+	background: #fffdfc;
+	margin: auto;
+	line-height: 2rem;
+
+}
+.table_head{
+	width: auto;
+	background: #113b49;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+.table_body{
+	text-align: center;
+}
+.table_foot{
+	text-align: right;
+  
+}
+.footer{
+	padding: 25px;
+	text-align: center;
+	line-height: 2rem;
+	border-bottom: 1px solid black;
+}
